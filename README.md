@@ -1,8 +1,8 @@
 
 ## Hardware
 
-| Component | Model / Specification | Purpose |
-|---|---|---|
+| Component | Model / Specification |
+|---|---|
 | Single-board computer | Raspberry Pi 5 8 GB RAM |
 | Cooling system | Raspberry Pi Active Cooler |
 | Touchscreen display | Waveshare 20135 QLED IPS 10,1 |
