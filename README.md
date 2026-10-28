@@ -15,5 +15,5 @@
 | Portable power supply | Greencell PowerPlay Ultra 25200mAh 140W |
 | Portable power station | DJI Power 1000 V2 |
 
-*Note: The u-blox ZED-F9P is integrated into the SparkFun GPS-RTK-SMA Breakout board. It is not a separate external module.*
+*Note: The u-blox ZED-F9P is integrated into the SparkFun GPS-RTK-SMA Breakout board.*
 
